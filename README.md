@@ -1,5 +1,7 @@
 # ⚽ Cabo Verde - Road to World Cup 2026
 
+![Dashboard Cabo Verde](Analisis%20primer%20Partido%20-%20Cabo%20verde.png)
+
 Proyecto de Web Scraping y Análisis de Datos Deportivos desarrollado con Python para estudiar el rendimiento competitivo reciente de la selección de Cabo Verde y compararlo con otras selecciones internacionales.
 
 ---
