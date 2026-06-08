@@ -1,0 +1,13 @@
+2026-06-07 19:14:32,089 - WARNING - robots.txt revisado: acceso no confirmado para https://www.11v11.com/teams/cape-verde-islands/tab/matches/. Se aplican pausas, pocas solicitudes y uso académico.
+2026-06-07 19:14:32,175 - WARNING - robots.txt revisado: acceso no confirmado para https://www.11v11.com/teams/spain/tab/matches/. Se aplican pausas, pocas solicitudes y uso académico.
+2026-06-07 19:14:37,974 - INFO - Descarga correcta: https://www.11v11.com/teams/cape-verde-islands/tab/matches/
+2026-06-07 19:14:38,068 - INFO - Título detectado con BeautifulSoup: Cape Verde Islands football
+	team 'A' international match record
+2026-06-07 19:14:38,069 - INFO - Tablas HTML detectadas con BeautifulSoup: 1
+2026-06-07 19:14:43,666 - INFO - Descarga correcta: https://www.11v11.com/teams/cape-verde-islands/tab/matches/
+2026-06-07 19:14:43,717 - INFO - Tablas encontradas en https://www.11v11.com/teams/cape-verde-islands/tab/matches/: 1
+2026-06-07 19:14:43,717 - INFO - Tabla de partidos seleccionada: índice 0, filas 10
+2026-06-07 19:14:48,574 - INFO - Descarga correcta: https://www.11v11.com/teams/spain/tab/matches/
+2026-06-07 19:14:48,594 - INFO - Tablas encontradas en https://www.11v11.com/teams/spain/tab/matches/: 1
+2026-06-07 19:14:48,594 - INFO - Tabla de partidos seleccionada: índice 0, filas 9
+2026-06-07 19:14:52,853 - INFO - Estructura validada correctamente.

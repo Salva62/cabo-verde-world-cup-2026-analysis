@@ -1,0 +1,7 @@
+﻿Date,Match,Result,Score,Competition,Fecha,Rival,Condicion,Goles_Favor,Goles_Contra,Resultado,Resultado_Texto,Equipo,Diferencia_Goles,Porteria_Cero,Sin_Marcar,Marca_2_o_mas,Resuelto_Tras_Empate,Nota_Marcador
+04 Sep 2025,Bulgaria v Spain,W,0-3,FIFA World Cup,2025-09-04,Bulgaria,Visitante,3,0,W,Victoria,España,3,True,False,True,False,Marcador principal
+07 Sep 2025,Turkey v Spain,W,0-6,FIFA World Cup,2025-09-07,Turkey,Visitante,6,0,W,Victoria,España,6,True,False,True,False,Marcador principal
+11 Oct 2025,Spain v Georgia,W,2-0,FIFA World Cup,2025-10-11,Georgia,Local,2,0,W,Victoria,España,2,True,False,True,False,Marcador principal
+14 Oct 2025,Spain v Bulgaria,W,4-0,FIFA World Cup,2025-10-14,Bulgaria,Local,4,0,W,Victoria,España,4,True,False,True,False,Marcador principal
+15 Nov 2025,Georgia v Spain,W,0-4,FIFA World Cup,2025-11-15,Georgia,Visitante,4,0,W,Victoria,España,4,True,False,True,False,Marcador principal
+18 Nov 2025,Spain v Turkey,D,2-2,FIFA World Cup,2025-11-18,Turkey,Local,2,2,D,Empate,España,0,False,False,True,False,Marcador principal
